@@ -28,6 +28,6 @@
 </center>
 <br>
 
-<a href="http://discord.me/portugascripts">
+<a href="https://discord.gg/aZ9VMN7wxu">
 <img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
