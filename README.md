@@ -27,3 +27,7 @@
     />
 </center>
 <br>
+
+<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[discord]
+
+[discord]: http://discord.me/portugascripts
