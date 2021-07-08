@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, We are Portuga Scripts</h1>
 
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PortugaScripts&label=Profile%20views&color=0e75b6&style=flat" alt="PortugaScripts" /> </p>
+</br>
 
 <a href="https://discord.gg/aZ9VMN7wxu">
 <img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
